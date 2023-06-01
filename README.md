@@ -1,4 +1,4 @@
-# PreDiSkin
+# PrediSkin
 
 ## Description
 
@@ -9,4 +9,4 @@ PrediSkin is a web-based application (powered by Flask) that serves as an intell
 
 The model used is a Convolutional Neural Network (CNN). The CNN architecture used in this study is a conventional Conv-Pool-Conv-Pool architecture with an increase in the number of filters at each stage.
 
-![Model Architecture](model_architecture.png)
+![Model Architecture](model-architecture.png)
